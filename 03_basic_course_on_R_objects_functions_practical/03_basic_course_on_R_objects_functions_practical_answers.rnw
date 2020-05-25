@@ -147,7 +147,7 @@ $17 ^4$, \,\,\,\,\, $45 - 2 \cdot 3$, \,\,\,\,\, $(45 - 2) \cdot 3$
 \color{black}
 \end{enumerate}
 
-\subsection{Do the last calculation from Q1.4 in another way, like this:}
+\subsection{Do the last calculation from Q1.3 in another way, like this:}
 
 <<eval=FALSE>>=
 a <- 45
